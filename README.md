@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # VivaVibe   
 <img src="https://firebasestorage.googleapis.com/v0/b/instagram-autobot-df35b.appspot.com/o/IMG_B108D631FF82-1.jpeg?alt=media&token=6ea618ae-b89a-4020-9636-8c74c14eed4b" alt="Screenshot of instagram page" width="370" height="700">
 
