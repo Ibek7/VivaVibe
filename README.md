@@ -57,7 +57,4 @@ The project is divided into two primary services: the post creation service, whi
 
 ## Development notes 
 This project is still in development, and while the design isn't final, I’ve prioritized delivering a functional version first. Some aspects, such as file path management, absence of a dedicated logger for different logging priorities, and processes that could be run asynchronously, are still rough and will be refined over time. Since this is a personal project, it’s currently tailored to my own needs, but adjustments could be made later if it’s extended for broader use. My focus for now is tackling the most challenging and urgent requirements before refining other aspects.
-=======
-# VivaVibe
-VivaVibe is a Python-based project that automates the creation and publication of motivational posts on Instagram. Leveraging OpenAI’s ChatGPT and DALL-E for content generation, Firebase for data storage, and the Instagram Graph API for publishing, VivaVibe offers a flexible framework for generating engaging social media content.
->>>>>>> 18a415f8ef9c7f836d4f382d9ac7e75f7809b8ac
+
