@@ -1,0 +1,7 @@
+*/__pycache__
+/__pycache__
+Details.py
+*.json
+*.DS_Store
+venv
+/Cache
